@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+env/
+*.env
+.DS_Store
+*.pdf
+*.jpg
+*.png
+*.jpeg
+tesseract_log.txt

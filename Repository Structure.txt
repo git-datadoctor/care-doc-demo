@@ -1,0 +1,10 @@
+care-doc-demo/
+├── app.py
+├── processing.py
+├── requirements.txt
+├── .gitignore
+├── README.md
+└── sample_docs/
+    ├── sample_note.pdf
+    ├── wound_care.jpg
+    └── medication_list.png
