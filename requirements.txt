@@ -7,4 +7,4 @@ openai==0.28.1
 Pillow==10.0.1
 
 # Download after installation
-python -m spacy download en_core_web_sm
+# python -m spacy download en_core_web_sm
