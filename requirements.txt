@@ -1,10 +1,15 @@
 streamlit==1.28.0
 pytesseract==0.3.10
 pdf2image==1.17.0
-spacy==3.7.2
+spacy==3.7.4
+thinc==8.2.3
+numpy==1.26.4
 python-dotenv==1.0.0
 openai==0.28.1
 Pillow==10.0.1
 
 # Download after installation
 # python -m spacy download en_core_web_sm
+# Add these lines to prevent source builds
+--only-binary=:all:
+--find-links https://wheel-index.linux-x86_64
